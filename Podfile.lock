@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.9.1)
+  - KeychainSwift (24.0.0)
+  - Kingfisher (7.11.0)
+  - Realm (10.52.1):
+    - Realm/Headers (= 10.52.1)
+  - Realm/Headers (10.52.1)
+  - RealmSwift (10.52.1):
+    - Realm (= 10.52.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - KeychainSwift (~> 24.0)
+  - Kingfisher
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - KeychainSwift
+    - Kingfisher
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  KeychainSwift: 007c4647486e4563adca839cf02cef00deb3b670
+  Kingfisher: b9c985d864d43515f404f1ef4a8ce7d802ace3ac
+  Realm: 5b0f6fe519911831fff94e6e6fba8fd404fa20ed
+  RealmSwift: 6963a458f4f5f3f0df5cca69dece5c802c7b7cad
+
+PODFILE CHECKSUM: 4c22c72062190137ea6743ddb8ddaaa60f4d3042
+
+COCOAPODS: 1.16.2
