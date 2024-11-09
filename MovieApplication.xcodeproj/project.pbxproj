@@ -85,7 +85,6 @@
 				C5BE2C22A9D56FA7CC58A6D4 /* Pods-MovieApplication.debug.xcconfig */,
 				59C0CFF32DCFAC5BE987641C /* Pods-MovieApplication.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
