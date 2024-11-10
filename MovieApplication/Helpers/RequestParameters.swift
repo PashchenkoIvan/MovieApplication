@@ -1,8 +1,8 @@
 //
-//  EndpointParams.swift
-//  TheMovieApp
+//  RequestsParamsStructs.swift
+//  TMDB
 //
-//  Created by Пащенко Иван on 18.07.2024.
+//  Created by Пащенко Иван on 19.04.2024.
 //
 
 import Foundation
