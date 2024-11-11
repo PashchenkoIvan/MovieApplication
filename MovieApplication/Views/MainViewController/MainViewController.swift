@@ -9,6 +9,7 @@ import UIKit
 
 class MainViewController: UIViewController {
     @IBOutlet weak var trendMovieCollectionView: UICollectionView!
+    @IBOutlet weak var genresCollectionView: UICollectionView!
     
     var movieList: [Movie] = []
     
@@ -16,6 +17,11 @@ class MainViewController: UIViewController {
         super.viewWillAppear(animated)
         
         self.getMovieData()
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        
     }
     
 }
